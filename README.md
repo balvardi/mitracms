@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Mitra CMS Logo](https://img.shields.io/badge/Mitra-Global%20CMS-blue?style=for-the-badge&logo=php)
-![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-42.0.0-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=for-the-badge&logo=mysql)
